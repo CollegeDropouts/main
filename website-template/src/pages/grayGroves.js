@@ -1,25 +1,23 @@
 export default function examplePage() {
     return (
       <div className='container'>
-        <title>Website</title>
+        <title>CollegeDropouts</title>
         <link rel='icon' href='/favicon.ico' />
 
         <main>
           <div className='underline'>
-            <h1 className='title'>Hello, Im Ron Burgundy?</h1>
+            <h1 className='title'>Hello, my name is Gray Groves?</h1>
           </div>
           <img
             className='pic'
-            src='https://pbs.twimg.com/profile_images/415961110635110400/xPO9YqTC.jpeg'
-            alt='ron burgundy'
+            src='https://media-exp1.licdn.com/dms/image/C4E03AQHUCznbelLL6Q/profile-displayphoto-shrink_100_100/0/1661213459277?e=1674086400&v=beta&t=HkzNhgwqz3-cXG67Z_Nw2uhdO2d9YoMsOgp9aCGlJs4'
+            alt='gray groves'
           />
 
           <p className='description'>
-            I dont know if you know this, but... I am kind of a big deal. I have
-            many leather bound books and my apartment smells of rich mahogany. I
-            am also a five-time local Emmy award-winning anchor for the KVWN Channel
-            4 News in San Diego. When im not reading the news, you will find me
-            playing the jazz flute around the city at different establishments.
+            I am a first year year computer science student at colorado boulder. 
+            I enjoy coding and rock climbing.
+            
           </p>
 
           <a className='button' href='/'>
