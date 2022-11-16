@@ -10,16 +10,13 @@ export default function examplePage() {
           </div>
           <img
             className='pic'
-            src='https://pbs.twimg.com/profile_images/415961110635110400/xPO9YqTC.jpeg'
+            src='https://media-exp1.licdn.com/dms/image/C4E03AQH5bCVlXlq6Zw/profile-displayphoto-shrink_400_400/0/1661726461879?e=1674086400&v=beta&t=7I3EBpitWE1VqfcKNcUVX-DZyERu7okI-WStfRtJjg4'
             alt='ron burgundy'
           />
 
           <p className='description'>
-            I dont know if you know this, but... I am kind of a big deal. I have
-            many leather bound books and my apartment smells of rich mahogany. I
-            am also a five-time local Emmy award-winning anchor for the KVWN Channel
-            4 News in San Diego. When im not reading the news, you will find me
-            playing the jazz flute around the city at different establishments.
+            Hello, World! My name is Linh and I am a computer science major at University
+            of Colorado Boulder. On my free time I enjoy singing, playing piano, and drinking boba!
           </p>
 
           <a className='button' href='/'>
