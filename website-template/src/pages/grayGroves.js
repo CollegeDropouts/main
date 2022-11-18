@@ -17,7 +17,7 @@ export default function examplePage() {
           <p className='description'>
             I am a first year year computer science student at colorado boulder. 
             I enjoy coding and rock climbing.
-            
+            I really enjoy eating ramen noodles and camping with friends.
           </p>
 
           <a className='button' href='/'>
